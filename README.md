@@ -22,7 +22,8 @@ The project is structured as follows:
 * `data`: contains the code to execute to make the dataset;
 * `results`: contains the checkpoints and the results;
 * `model`: contains the code about the model;
-* `utils`: contains all the utility code.
+* `utils`: contains all the utility code;
+* `histogramAnalysis`: contains all the code necessary to print the images about the histogram distribution.
 
 # Usage
 ### Data Download
